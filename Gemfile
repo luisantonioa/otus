@@ -9,7 +9,6 @@ gem 'rails', '3.2.11'
 
 gem 'sqlite3'
 gem 'uri-handler'
-gem 'therubyracer', :platforms => :ruby
 gem 'httparty'
 gem 'hash_extension'
 
